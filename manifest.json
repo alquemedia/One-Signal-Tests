@@ -1,5 +1,8 @@
 {
-  "//": "Some browsers will use this to enable push notifications.",
-  "//": "It is the same for all projects, this is not your project's sender ID",
-  "gcm_sender_id": "103953800507"
+  "name": "Coach.io Dev",
+  "short_name": "CoachioDev",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795",
+  "DO_NOT_CHANGE_GCM_SENDER_ID": "Do not change the GCM Sender ID"
 }
